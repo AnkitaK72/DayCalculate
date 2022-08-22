@@ -1,0 +1,8 @@
+PS C:\Users\ankita.kavathekar\Documents\GitHub> g++ day.c
+PS C:\Users\ankita.kavathekar\Documents\GitHub> ./a.exe  
+Enter month: 3
+Number of days in 3 month is: 31
+PS C:\Users\ankita.kavathekar\Documents\GitHub> .\a.exe  
+Enter month: 2
+Number of days in 2 month is: 28
+PS C:\Users\ankita.kavathekar\Documents\GitHub>
